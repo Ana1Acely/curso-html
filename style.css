@@ -1,13 +1,27 @@
 body {
 	background: #CCCCCC
 }
-p {
-text-align: center;	
 
+#flores{
+	   width: 1000px;
+	   height: 800px;
+	 margin-left: 130px;
 }
-	
-strong {
-   color: red;
+
+H1{
+   text-align: center;
+}
+
+p {
+   text-align: center;	
+}
+
+#missao {
+     font-size: 20px
+}
+
+em strong
+     color: #FF0000;
 }
      
  
